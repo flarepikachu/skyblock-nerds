@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SkyBlock Nerds Documentation on SkyBlock Nerds</title>
+    <link>/</link>
+    <description>Recent content in SkyBlock Nerds Documentation on SkyBlock Nerds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2023 Hyas</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:33:54 +0200</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>/docs/guides/about-us/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>/docs/guides/about-us/</guid>
+      <description>Welcome to the SkyBlock Nerds Documentation Page. Here you&amp;rsquo;ll find a bunch of guides that will hopefully improve your writing significantly.</description>
+    </item>
+    <item>
+      <title>Writing Suggestions</title>
+      <link>/docs/writing/writing-suggestions/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>/docs/writing/writing-suggestions/</guid>
+      <description>YOUR MOMReference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.</description>
+    </item>
+    <item>
+      <title>Writing Documents</title>
+      <link>/docs/writing/writing-documents/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>/docs/writing/writing-documents/</guid>
+      <description>YOUR MOMReference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
+      <guid>/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/</guid>
+      <description>test</description>
+    </item>
+  </channel>
+</rss>
