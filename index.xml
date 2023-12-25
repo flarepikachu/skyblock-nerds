@@ -19,9 +19,9 @@
     <item>
       <title>Writing Suggestions</title>
       <link>/docs/writing/writing-suggestions/</link>
-      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <pubDate>Mon, 25 Dec 2023 16:13:18 +0200</pubDate>
       <guid>/docs/writing/writing-suggestions/</guid>
-      <description>YOUR MOMReference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.</description>
+      <description>This is a guide regarding how to write suggestions for SkyBlock Nerds. The goal of this guide is so that community members can create good and complete suggestions that can move down the greenlit pipeline faster.</description>
     </item>
     <item>
       <title>Writing Documents</title>
@@ -29,6 +29,13 @@
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
       <guid>/docs/writing/writing-documents/</guid>
       <description>YOUR MOMReference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.</description>
+    </item>
+    <item>
+      <title>Reporting and Fixing Typos</title>
+      <link>/docs/writing/reporting-and-fixing-typos/</link>
+      <pubDate>Mon, 25 Dec 2023 16:13:18 +0200</pubDate>
+      <guid>/docs/writing/reporting-and-fixing-typos/</guid>
+      <description>If you find typos on SkyBlock, please report them at www.hypixel.net/bugs or using the /bug command in SkyBlock Nerds. Please submit the typo, the proposed fixed for the typo, and further explanation if needed.</description>
     </item>
     <item>
       <title>Privacy Policy</title>

@@ -32,7 +32,7 @@
   
   <url>
     <loc>/docs/writing/writing-suggestions/</loc>
-    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+    <lastmod>2023-12-25T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -60,6 +60,15 @@
   <url>
     <loc>/docs/</loc>
     <lastmod>2023-09-07T16:12:03+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/docs/writing/reporting-and-fixing-typos/</loc>
+    <lastmod>2023-12-25T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
