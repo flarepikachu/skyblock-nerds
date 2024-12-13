@@ -4,31 +4,31 @@
     <title>Writing Guidelines on SkyBlock Nerds</title>
     <link>/docs/writing/</link>
     <description>Recent content in Writing Guidelines on SkyBlock Nerds</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2023 Hyas</copyright>
-    <lastBuildDate>Thu, 07 Sep 2023 16:12:37 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 16:13:18 +0200</lastBuildDate>
     <atom:link href="/docs/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing Suggestions</title>
       <link>/docs/writing/writing-suggestions/</link>
       <pubDate>Mon, 25 Dec 2023 16:13:18 +0200</pubDate>
       <guid>/docs/writing/writing-suggestions/</guid>
-      <description>This is a guide regarding how to write suggestions for SkyBlock Nerds. The goal of this guide is so that community members can create good and complete suggestions that can move down the greenlit pipeline faster.</description>
+      <description>&lt;p&gt;This is a guide regarding how to write suggestions for SkyBlock Nerds. The goal of this guide is so that community members can create good and complete suggestions that can move down the greenlit pipeline faster.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Writing Documents</title>
       <link>/docs/writing/writing-documents/</link>
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
       <guid>/docs/writing/writing-documents/</guid>
-      <description>YOUR MOMReference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.</description>
+      <description>&lt;p&gt;Reference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.&#xA;abc&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reporting and Fixing Typos</title>
       <link>/docs/writing/reporting-and-fixing-typos/</link>
       <pubDate>Mon, 25 Dec 2023 16:13:18 +0200</pubDate>
       <guid>/docs/writing/reporting-and-fixing-typos/</guid>
-      <description>If you find typos on SkyBlock, please report them at www.hypixel.net/bugs or using the /bug command in SkyBlock Nerds. Please submit the typo, the proposed fixed for the typo, and further explanation if needed.</description>
+      <description>&lt;p&gt;If you find typos on SkyBlock, please report them at &lt;a href=&#34;https://www.hypixel.net/bugs&#34;&gt;www.hypixel.net/bugs&lt;/a&gt; or using the &lt;code&gt;/bug&lt;/code&gt; command in SkyBlock Nerds. Please submit the typo, the proposed fixed for the typo, and further explanation if needed.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
